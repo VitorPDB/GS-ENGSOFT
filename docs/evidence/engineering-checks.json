@@ -1,0 +1,33 @@
+{
+  "web_export": "passed",
+  "date": "2026-11-18",
+  "client": {
+    "tests": 11,
+    "failures": 0
+  },
+  "e2e": {
+    "tests": 4,
+    "report_closed_after_reload": true,
+    "compact_width": 320,
+    "notification_read_after_reload": true,
+    "lost_post_response_retry_without_duplicate": true,
+    "draft_preserved_offline": true,
+    "passed": 4,
+    "input_rejection_editable": true,
+    "seconds": 45.9,
+    "real_api": true
+  },
+  "backend": {
+    "tests": 16,
+    "failures": 0
+  },
+  "not_executed": [
+    "Android device and hardware Back button",
+    "TalkBack/native font scale",
+    "PostgreSQL and remote CI",
+    "Load and user research"
+  ],
+  "typescript": "passed",
+  "android_hermes_export": "passed",
+  "android_config": "passed"
+}
